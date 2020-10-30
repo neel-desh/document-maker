@@ -3,5 +3,5 @@
 ## Indian final year students who have final year projects might find this useful
 ## Make sure you do a pip install
 ```console
-neeldeshmukh@babayagar:~$ pip3 install python-docx
+neeldeshmukh@babayaga:~$ pip3 install python-docx
 ```
